@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GovernmentBF</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="powered_by">Powered by</string>
+    <string name="google_civic_information_api">Google Civic Information API</string>
+    <string name="_2020_brian_fong">© 2020, Brian Fong</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="address">Address:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="website">Website:</string>
+    <string name="none">None</string>
+</resources>
